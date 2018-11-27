@@ -5,5 +5,5 @@
 ## Use
 
 ```bash
-./svg-to-sass-variable.sh "./output/file.scss" "input/"
+./svg-to-sass-variable.sh ./output/file.scss input/
 ```
