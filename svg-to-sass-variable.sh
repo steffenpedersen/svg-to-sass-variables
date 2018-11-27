@@ -12,7 +12,7 @@ function oneline() {
 function create_sass_variable() {
     source_name=$( get_source_name "$1" )
     icon_source=$( oneline "$1" )
-    printf "\$icon-%s-source: \'%s\';\n" "$source_name" "$icon_source"
+    printf "\$svg-%s: \'%s\';\n" "$source_name" "$icon_source"
 }
 
 function create_sass_variables_from_icons() {
