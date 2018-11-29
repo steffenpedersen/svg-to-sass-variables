@@ -14,7 +14,9 @@ Run the bash script with arguments containing a path to an output file and an in
 
 ## Use Variables
 
-This is just an example of using variables with SVGs. There are probably many more. The function is an example from [this link][link-inline-svg].
+This is just an example of using variables with SVGs. There are probably many more. 
+
+The function is an example from [this link][link-inline-svg].
 
 ```sass
 ...
