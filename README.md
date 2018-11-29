@@ -4,7 +4,9 @@ This is a bash script, that will make Sass variables from SVG files.
 
 A use case could be, if you are using your SVGs inline. Look at the example in [this link][link-inline-svg].
 
-## Use
+## Make Variables
+
+Run the bash script with arguments containing a path to an output file and an input directory.
 
 ```bash
 ./svg-to-sass-variable.sh ./output/file.scss input/
